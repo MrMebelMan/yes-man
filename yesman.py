@@ -30,7 +30,7 @@ def tts(text):
 
     data = {
       "text": text,
-      "model_id": "eleven_monolingual_v1",
+      "model_id": "eleven_turno_v2",
       "voice_settings": {
         "stability": 0.4,
         "similarity_boost": 0.9,
