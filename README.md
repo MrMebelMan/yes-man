@@ -1,5 +1,8 @@
 # YES MAN
 
+![yesman_fullscream](https://github.com/MrMebelMan/yes-man/assets/15896005/1a25d939-4e1c-4dce-af74-3a4c290e4a02)
+
+
 ## Introduction
 Hey there, enthusiastic friend! 🌟 Welcome to the most cooperative and unconditionally affirming bot you'll ever meet - the **YES MAN Bot**! Based on your favorite hyper-obliging robot from Fallout New Vegas, this bot is here to make your day, everyday, with an upbeat "YES!" to your every command. 😄
 
