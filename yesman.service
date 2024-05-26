@@ -1,0 +1,17 @@
+[Unit]
+Description=Start feh with image viewer
+After=jack.service graphical.target
+Requires=jack.service
+Wants=graphical.target
+
+[Service]
+User=aasa
+Group=audio
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/aasa/.Xauthority
+ExecStartPre=/bin/sleep 20
+ExecStart=/home/aasa/yesman.sh
+
+[Install]
+WantedBy=graphical.target
+
