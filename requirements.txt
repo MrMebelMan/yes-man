@@ -1,0 +1,9 @@
+python-dotenv
+requests
+langchain-core
+langchain-groq
+langchain-openai
+deepgram-sdk
+langchain
+pyaudio
+deepgram-sdk==3.4.0
